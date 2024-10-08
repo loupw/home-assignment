@@ -1,5 +1,7 @@
 # Functional Test Cases for ChainPortX & CCTP protocols selection
 
+![Matrix of protocols selection](./img.png)
+
 ## ETHEREUM (ChainPortX & CCTP) <-> AVALANCHE (CCTP)
 CCTP is always used
 
